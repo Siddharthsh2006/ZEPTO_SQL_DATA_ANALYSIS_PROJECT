@@ -114,6 +114,10 @@ CREATE TABLE zepto (
 
 - Measured total inventory weight per product category
 
+- Discount Effectiveness and Stock Levels (Conditional Aggregation)
+
+- Analyzing Stock Levels of High-Discount Items
+
 
 ## Author - Siddharth Sharma
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
